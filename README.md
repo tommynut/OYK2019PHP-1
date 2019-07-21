@@ -12,7 +12,7 @@ Komut|Açıklama
 ```sudo apt update``` |Paket listesini günceller.
 ```sudo apt upgrade``` |Sistemde kurulu paketleri günceller.
 
-### Paket yöneticileri (apt, yum, dnc, pkg, packman)
+### Paket yöneticileri (apt, yum, pkg, packman)
 - Paket yükleme işlemleri kolaylaşır.
 - Paket kaldırma işlemleri kolaylaşır.
 - Var olan paketlerin güncelleme işlemleri kolaylaşır.
