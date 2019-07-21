@@ -48,6 +48,7 @@ Apache nedir? Apache, dünyadaki web sitelerinin %46’sına gücünü veren aç
 ### MySQL? MariaDB?
 
 **MySQL**, altı milyondan fazla sistemde yüklü bulunan çoklu iş parçacıklı, çok kullanıcılı, hızlı ve sağlam bir veri tabanı yönetim sistemidir.
+
 **MariaDB**, ilişkisel veritabanı sistemi olan MySQL'in kaynak kodundan türemiş, GNU Genel Kamu Lisansı altında dağıtılarak ücretsiz olarak kullanılabilen, geliştirilmesi ve bakımı topluluk tarafından sürdürülen veritabanıdır.
 
 ### Servis Nedir?
